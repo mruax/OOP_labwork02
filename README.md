@@ -1,5 +1,6 @@
 # OOP_labwork02
 Author: Matvey Chernyakov
+
 Date: September 2023
 
 ## Run
@@ -12,12 +13,16 @@ This is project with some small python scripts that solve small problems.
 
 ### task1.py
 This python script allows user to perform basic operations with input data.
+
 In: a -> int, b -> int
+
 Example:
 ![Example image 1](https://github.com/mruax/OOP_labwork02/blob/master/src/task1_example.jpg?raw=true)
 
 ### task2.py
 This python script shows message based on the input data.
+
 In: name -> str, age -> int, address -> str, country -> str
+
 Example:
 ![Example image 1](https://github.com/mruax/OOP_labwork02/blob/master/src/task2_example.jpg?raw=true)
