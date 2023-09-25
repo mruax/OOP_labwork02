@@ -16,9 +16,13 @@ This python script allows user to perform basic operations with input data.
 
 In: a -> int, b -> int
 
-Example:
+Examples:
 
 ![Example image 1](https://github.com/mruax/OOP_labwork02/blob/master/src/task1_example.jpg?raw=true)
+
+![Example image 2](https://github.com/mruax/OOP_labwork02/blob/master/src/task1_example2.jpg?raw=true)
+
+![Example image 3](https://github.com/mruax/OOP_labwork02/blob/master/src/task1_example3.jpg?raw=true)
 
 ### task2.py
 This python script shows message based on the input data.
