@@ -22,3 +22,7 @@ print(f"Разность чисел = {a - b}")
 print(f"Произведение чисел = {a * b}")
 print(f"Среднее арифметическое чисел = {(a + b) / 2}")
 print(f"Разность макс. и мин. по модулю = {my_max(my_abs(a), my_abs(b)) - my_min(my_abs(a), my_abs(b))}")
+try:
+    print(f"Частное чисел = {format(a / b, '.3g')}")
+except ZeroDivisionError:
+    print("На ноль делить нельзя!")
